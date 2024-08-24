@@ -1,3 +1,2 @@
 # coursera-1
-coursera test repository
-Good to start
+coursera test repository, Good to start
